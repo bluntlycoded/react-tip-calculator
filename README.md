@@ -1,6 +1,8 @@
 # ReactJS Tip Calculator Website
 
-![Tip Calculator Preview](tip-calculator-preview.png)
+![Tip Calculator Preview](Hero-Section.png)
+![Tip Calculator Preview](Tip-Calculator.png)
+![Tip Calculator Preview](Footer.png)
 
 This is a simple Tip Calculator website built using ReactJS with function-based components and styled using Tailwind CSS. Easily calculate the tip amount you'd like to leave based on your bill total and chosen tip percentage.
 
